@@ -3,7 +3,7 @@
 
 Valentine Proposal Page ❤️
 
-A fun and interactive Valentine's Day webpage designed to surprise and engage the recipient. The page features a playful Yes/No interaction, with dynamic text changes and animations leading to a heartwarming surprise.
+Hi my lovee, click the demo below and see what i have in store for you <3
 ## Demo
 
 [Click here to view the demo](https://thelukcraft.github.io/Will_you_be_my_Valentine/)  
